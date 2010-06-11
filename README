@@ -1,0 +1,40 @@
+Coro-DBI
+
+INSTALLATION
+
+To install this module, run the following commands:
+
+	perl Makefile.PL
+	make
+	make test
+	make install
+
+SUPPORT AND DOCUMENTATION
+
+After installing, you can find documentation for this module with the
+perldoc command.
+
+    perldoc Coro::DBI
+
+You can also look for information at:
+
+    RT, CPAN's request tracker
+        http://rt.cpan.org/NoAuth/Bugs.html?Dist=Coro-DBI
+
+    AnnoCPAN, Annotated CPAN documentation
+        http://annocpan.org/dist/Coro-DBI
+
+    CPAN Ratings
+        http://cpanratings.perl.org/d/Coro-DBI
+
+    Search CPAN
+        http://search.cpan.org/dist/Coro-DBI/
+
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2010 Eric Clark
+
+This program is free software; you can redistribute it and/or modify it
+under the same terms as Perl itself.
+
